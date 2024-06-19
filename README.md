@@ -1,13 +1,6 @@
-# RIH4KRC V1 ( Arduino Shield)
+# RIH4KRC (ArdShield) v1
 
 
 ### Overview
-RIH4KRC's electronic business card (v1) is an eye-catching and memorable way to stand out from traditional paper cards. It's perfect for networking events, conferences, or any professional setting where you want to make a lasting impression on potential clients or partners. The green/red LED functionality also provides an additicive interaction for user.
-
-### Specs
-
-1 Green LED
-1 Red LED
-1 Button
-1 LCD Screen
+An Arduino Uno compatable shield. The LED (green) will turn ON once once the button is pressed displaying a message within the serial monitor. If the button is NOT pressed, then the LED (red) will turn ON.
 
